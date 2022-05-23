@@ -3,11 +3,15 @@
 
 *This game is still in Development.*
 
-![](https://github.com/gatoleo-0/py-doom/blob/master/2dassets/py.png)
-
 ## HOW TO PLAY
+
+### Linux
 `pip3 install -r requirements.txt`
 
 `python3 game.py` (in the py-doom folder)
+
+### Windows
+
+idk
 
 ###### CREDITS TO ID-SOFTWARE, BETHESDA & THE SPRITERS RESOURCE

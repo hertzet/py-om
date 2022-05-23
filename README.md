@@ -14,4 +14,4 @@ This game is still in Development.
 
 -Open the Terminal and do python game.py
 
-CREDITS TO IDSOFTWARE, BETHESDA & THE SPRITERS RESOURCE
+# CREDITS TO IDSOFTWARE, BETHESDA & THE SPRITERS RESOURCE

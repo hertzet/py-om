@@ -3,6 +3,8 @@
 
 *This game is still in Development.*
 
+![alt text](https://github.com/gatoleo-0/py-doom/blob/master/2dassets/py.png)
+
 ## HOW TO PLAY
 `pip3 install -r requirements.txt`
 

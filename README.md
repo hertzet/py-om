@@ -4,7 +4,8 @@ Doom Clone made with Ursina Engine (Python 3.8)
 This game is still in Development.
 
 # HOW TO PLAY
-`pip install ursina
-python game.py` (in the py-doom folder)
+`pip install ursina`
+
+`python game.py` (in the py-doom folder)
 
 # CREDITS TO IDSOFTWARE, BETHESDA & THE SPRITERS RESOURCE

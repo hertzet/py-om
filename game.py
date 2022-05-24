@@ -6,7 +6,6 @@ from ursina.prefabs.first_person_controller import FirstPersonController
 from ursina.shaders import basic_lighting_shader
 
 # from ursina.shaders import matcap_shader - un re viaje
-application.development = not False
 
 app = Ursina()
 window.borderless = False
@@ -51,9 +50,10 @@ shootables_parent = Entity()
 mouse.traverse_target = shootables_parent
 
 
-class Enemy(Entity):
+class HumanEnemy(Entity):
     def __init__(self, **kwargs):
-        super().__init__(parent=shootables_parent, model='cube', texture='FormerHumanSheet.png', scale_y=2, origin_y=-.5,
+        super().__init__(parent=shootables_parent, model='cube', texture='FormerHumanSheet.png', scale_y=2,
+                         origin_y=-.5,
                          collider='box', **kwargs)
         self.health_bar = Entity(parent=self, y=1.2, model='cube', color=color.red, world_scale=(1.5, .1, .1))
         self.max_hp = 20
@@ -88,7 +88,7 @@ class Enemy(Entity):
 
 
 # Enemy()
-enemies = [Enemy(x=x * 4) for x in range(4)]
+enemies = [HumanEnemy(x=x * 4) for x in range(4)]
 
 
 def update():
@@ -110,6 +110,6 @@ def pause_input(key):
 
 pause_handler = Entity(ignore_paused=True, input=pause_input)
 
-# Sky(texture='F_SKY1.png', filtering=False, color=color.red)
+Sky(texture='F_SKY1.png', filtering=False, color=color.red)
 
 app.run()

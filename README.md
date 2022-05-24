@@ -5,7 +5,7 @@
 
 ## HOW TO PLAY
 
-### Linux
+### GNU/Linux
 `pip3 install -r requirements.txt`
 
 `python3 game.py` (in the py-doom folder)

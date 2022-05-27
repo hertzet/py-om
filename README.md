@@ -1,5 +1,5 @@
 # py-doom
-**Doom Clone made with Ursina Engine (Python 3.8)**
+**Doom Clone made with Ursina Engine (Python 3)**
 
 ***This game is still in Development.***
 

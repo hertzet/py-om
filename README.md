@@ -15,7 +15,7 @@
 *idk*
 
 ##### Buttons
-'x' crouch
+'c' crouch
 
 'w, a, s, d' to move
 

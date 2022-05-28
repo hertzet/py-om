@@ -1,6 +1,6 @@
 # py-doom
 
-#---ENGLISH---
+# ---ENGLISH---
 
 **Doom Clone made with Ursina Engine (Python 3)**
 
@@ -18,7 +18,7 @@
 *idk*
 
 ##### Buttons
-'c' crouch
+'x' crouch
 
 'w, a, s, d' to move
 
@@ -26,9 +26,8 @@
 
 'space' to jump
 
-#---ESPAÑOL---
+# ---ESPAÑOL---
 
-# py-doom
 **Clon de DOOM hecho con Ursina Engine (Python 3)**
 
 ***Este juego todavia esta en desarrollo.***

@@ -1,4 +1,4 @@
-# py-doom
+# py-om
 
 **Doom Clone made with Ursina Engine (Python 3)**
 
@@ -23,5 +23,7 @@
 'left mouse' to shoot
 
 'space' to jump
+
+'shift' to run
 
 ###### CREDITS TO ID-SOFTWARE, BETHESDA & THE SPRITERS RESOURCE

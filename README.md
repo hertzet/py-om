@@ -9,21 +9,21 @@
 ### GNU/Linux & Mac
 `pip3 install -r requirements.txt`
 
-`python3 game.py` (in the py-doom folder)
+`python3 game.py` (in the py-om folder)
 
 ### Windows
 
 *idk*
 
 ##### Buttons
-'c' crouch
+'C' crouch
 
-'w, a, s, d' to move
+'W, A, S, D' to move
 
-'left mouse' to shoot
+'LEFT MOUSE' to shoot
 
-'space' to jump
+'SPACE' to jump
 
-'shift' to run
+'SHIFHT' to run
 
 ###### CREDITS TO ID-SOFTWARE, BETHESDA & THE SPRITERS RESOURCE

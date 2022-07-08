@@ -13,7 +13,7 @@
 
 ### Windows
 
-*idk*
+*the same i guess idk*
 
 ##### Buttons
 'C' crouch
@@ -24,6 +24,6 @@
 
 'SPACE' to jump
 
-'SHIFHT' to run
+'SHIFT' to run
 
 ###### CREDITS TO ID-SOFTWARE, BETHESDA & THE SPRITERS RESOURCE
